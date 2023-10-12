@@ -96,9 +96,7 @@
                             </ul>
                         </li>
                 </div>
-                <div class="">
-                    <a class=" nav-link text-white " href="#"><i class="bi bi-plus-circle  fa-lg"></i></a>
-                </div>
+                
 
                 <a class=" nav-link" href="#" data-bs-toggle="dropdown">
                     <img src="../../../assets/img/Ivana.jpg" height="40" width="40" alt="P" class="rounded-circle">
@@ -134,7 +132,7 @@
             <div class="row d-flex justify-content-center align-items-center h-100">
                 <div class="col col-lg-10 col-xl-10">
                     <div class="card">
-                        <div class="rounded-top text-white d-flex flex-row" style="background-color: #000; height:200px;">
+                        <div class="rounded-top text-white d-flex flex-row bg-dark" style=" height:200px;">
                             <div class="ms-4 mt-5 d-flex flex-column" style="width: 150px;">
                                 <img src="../../../assets/img/Ivana.jpg" alt="Generic placeholder image" class="img-fluid img-thumbnail mt-4 mb-2" style="width: 150px; z-index: 1">
                                 <button type="button" class="btn btn-outline-dark" data-mdb-ripple-color="dark" style="z-index: 1;">
@@ -189,7 +187,7 @@
                                             </div>
                                         </div>
                                         <div class="card-body">
-                                            <h5 class="card-title">Rate:</h5>
+                                            <h5 class="card-title">Rate:</h5>a
                                             <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
                                         </div>
                                     </div>

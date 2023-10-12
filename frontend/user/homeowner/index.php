@@ -33,7 +33,7 @@
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" href="#">CHAT</a>
+                            <a class="nav-link text-white" href="chat2.php">CHAT</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-white" href="joblist.php">JOBLIST</a>
@@ -110,7 +110,9 @@
                                 </div>
                                 <p class="card-text">Age:</p>
                                 <p class="card-text">Rate:</p>
-                                <button type="button" class="btn btn-info btn-sm mt-4 float-end">view profile</button>
+                                <a href="viewprofile.php">
+                                    <button type="button" class="btn btn-info btn-sm mt-4 float-end" >view profile</button>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -133,7 +135,9 @@
                                 </div>
                                 <p class="card-text">Age:</p>
                                 <p class="card-text">Rate:</p>
-                                <button type="button" class="btn btn-info btn-sm mt-4 float-end">view profile</button>
+                                <a href="viewprofile.php">
+                                    <button type="button" class="btn btn-info btn-sm mt-4 float-end" >view profile</button>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -158,7 +162,9 @@
                                 </div>
                                 <p class="card-text">age:</p>
                                 <p class="card-text">rate:</p>
-                                <button type="button" class="btn btn-info btn-sm mt-4 float-end">view profile</button>
+                                <a href="viewprofile.php">
+                                    <button type="button" class="btn btn-info btn-sm mt-4 float-end" >view profile</button>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -181,7 +187,9 @@
                                 </div>
                                 <p class="card-text">age:</p>
                                 <p class="card-text">rate:</p>
-                                <button type="button" class="btn btn-info btn-sm mt-4 float-end" href="index.php">view profile</button>
+                                <a href="viewprofile.php">
+                                    <button type="button" class="btn btn-info btn-sm mt-4 float-end" >view profile</button>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -210,7 +218,6 @@
             </div>
         </div>
     </div>
-
 
     <!-- footer -->
     <footer>

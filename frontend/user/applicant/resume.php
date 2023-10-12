@@ -133,10 +133,10 @@
                         <img class="rounded-circle img-fluid" src="https://i.pravatar.cc/175?img=32" alt="Profile Photo" />
                     </div>
                     <div class="col-md-9">
-                        <input type="text"  class="form-control form-control-md border-bottom" name="name" id="name"  placeholder="Name">
-                        <h5>Freelance Web Developer</h5>
+                        <input type="text" class="form-control form-control-md border-bottom" name="name" id="name" placeholder="Name">
+                        
                         <p class="border-top pt-3">
-                           <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="About"> 
+                            <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="About">
                         </p>
                     </div>
                 </div>
@@ -146,13 +146,13 @@
             <div class="container">
                 <div class="row p-3">
                     <div class="col-md pb-2 pb-md-0">
-                        <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email"> 
+                        <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
                     </div>
                     <div class="col-md text-md-center pb-2 pb-md-0">
-                        <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Address"> 
+                        <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Address">
                     </div>
                     <div class="col-md text-md-right">
-                        <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Phone number"> 
+                        <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Phone number">
                     </div>
                 </div>
             </div>
@@ -174,41 +174,58 @@
                     <!-- recent work -->
                 </div>
             </div>
-            <h2 class="mb-5">Work Experience</h2>
+            <h2 class="mb-5">Personal information</h2>
             <ul>
                 <li>
-                    <h6 class="text-primary">Senior Web Developer / Digital Agency 2016-2020</h6>
-                    <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email"> 
+                    <h6 class="text-primary"></h6>
+                    <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
                 </li>
-             
-            </ul>
-            <h2 class="mb-5">Recent Work</h2>
-            <div class="row">
-                <div class="col-md mb-3">
-                    <a href="#">
-                        <img class="img-fluid img-thumbnail" src="screenshot.png">
-                    </a>
-                </div>
-                <div class="col-md mb-3">
-                    <a href="#">
-                        <img class="img-fluid img-thumbnail" src="screenshot.png">
-                    </a>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md mb-3">
-                    <a href="#">
-                        <img class="img-fluid img-thumbnail" src="screenshot.png">
-                    </a>
-                </div>
-                <div class="col-md mb-3">
-                    <a href="#">
-                        <img class="img-fluid img-thumbnail" src="screenshot.png">
-                    </a>
-                </div>
-            </div>
+                <li>
+                    <h6 class="text-primary"></h6>
+                    <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
+                </li>
+                <li>
+                    <h6 class="text-primary"></h6>
+                    <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
+                </li>
+                <li>
+                    <h6 class="text-primary"></h6>
+                    <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
+                </li>
+                <li>
+                    <h6 class="text-primary"></h6>
+                    <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
+                </li>
+                <li>
+                    <h6 class="text-primary"></h6>
+                    <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
+                </li>
 
-        </main>
+            </ul>
+            <h2 class="mb-5">Education background</h2>
+            <ul>
+                <li>
+                    <h6 class="text-white">COLLEGE</h6>
+                    <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
+                </li>
+                <li>
+                    <h6 class="text-white">SECONDARY</h6>
+                    <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
+                </li>
+                <li>
+                    <h6 class="text-white">PRIMARY</h6>
+                    <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
+                </li>
+
+            </ul>
+            <h2 class="mb-5">Skill</h2>
+            <ul>
+                <li>
+                   
+                    <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
+                </li>
+
+            </ul>
 
     </div>
 

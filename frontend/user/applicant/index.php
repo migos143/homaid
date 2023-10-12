@@ -25,7 +25,7 @@
                                 <a class="nav-link text-white" aria-current="page" href="index.php">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-white" href="#">CHAT</a>
+                                <a class="nav-link text-white" href="chat.php">CHAT</a>
                             </li>
                             <li class="nav-item dropdown ">
                                 <a class="nav-link text-white" id="reports" data-bs-toggle="dropdown" aria-expanded="false" href="#">Notification</a>
@@ -97,9 +97,7 @@
                                 </ul>
                             </li>
                     </div>
-                    <div class="">
-                        <a class=" nav-link text-white " href="#"><i class="bi bi-plus-circle  fa-lg"></i></a>
-                    </div>
+                  
 
                     <a class=" nav-link" href="#" data-bs-toggle="dropdown">
                         <img src="../../../assets/img/Ivana.jpg" height="40" width="40" alt="P" class="rounded-circle">

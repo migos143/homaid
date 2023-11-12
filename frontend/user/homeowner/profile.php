@@ -13,11 +13,11 @@
 
 <body>
     <div class="container-fluid" style="margin: 0; padding: 0;">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #000;">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">HOME<span style="color:#0A9DF0;">AID</span></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                    <span class="navbar-toggler-icon text-white"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ">
@@ -46,7 +46,7 @@
 
                 </div>
                 <div class="">
-                    <a class="text-white " href="#"><i class="bi bi-plus-circle  fa-lg"></i></a>
+                    <a class="text-white " href="post.php"><i class="bi bi-plus-circle  fa-lg"></i></a>
                 </div>
 
                 <a class="nav-link " href="#" data-bs-toggle="dropdown">
@@ -86,32 +86,14 @@
                         <div class="rounded-top text-white d-flex flex-row" style="background-color: #000; height:200px;">
                             <div class="ms-4 mt-5 d-flex flex-column" style="width: 150px;">
                                 <img src="../../../assets/img/Ivana.jpg" alt="Generic placeholder image" class="img-fluid img-thumbnail mt-4 mb-2" style="width: 150px; z-index: 1">
-                                <button type="button" class="btn btn-outline-dark" data-mdb-ripple-color="dark" style="z-index: 1;">
-                                    Edit profile
-                                </button>
                             </div>
                             <div class="ms-3" style="margin-top: 130px;">
                                 <h5>Andy Horwitz</h5>
                                 <p>New York</p>
                             </div>
                         </div>
-                        <div class="p-4 text-black" style="background-color: #f8f9fa;">
-                            <div class="d-flex justify-content-end text-center py-1">
-                                <div>
-                                    <p class="mb-1 h5">253</p>
-                                    <p class="small text-muted mb-0">Photos</p>
-                                </div>
-                                <div class="px-3">
-                                    <p class="mb-1 h5">1026</p>
-                                    <p class="small text-muted mb-0">Followers</p>
-                                </div>
-                                <div>
-                                    <p class="mb-1 h5">478</p>
-                                    <p class="small text-muted mb-0">Following</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card-body p-4 text-black">
+                      
+                        <div class="card-body p-4 text-black mt-5">
                             <div class="mb-5">
                                 <p class="lead fw-normal mb-1">Bio</p>
                                 <div class="p-4" style="background-color: #f8f9fa;">
@@ -121,23 +103,52 @@
                                 </div>
                             </div>
                             <div class="d-flex justify-content-between align-items-center mb-4">
-                                <p class="lead fw-normal mb-0">Recent photos</p>
-                                <p class="mb-0"><a href="#!" class="text-muted">Show all</a></p>
+                                <p class="lead fw-normal mb-0">Post</p>
                             </div>
-                            <div class="row g-2">
-                                <div class="col mb-2">
-                                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Lightbox/Original/img%20(112).webp" alt="image 1" class="w-100 rounded-3">
-                                </div>
-                                <div class="col mb-2">
-                                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Lightbox/Original/img%20(107).webp" alt="image 1" class="w-100 rounded-3">
+
+                            <div class="row ">
+                                <div class="card bg-dark text-white my-2">
+                                    <div class="card-header d-flex justify-content-between">
+                                        <div class="img">
+
+                                            <img src="../../../assets/img/jane.jpg" height="50" width="50" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">katabang</h5>
+                                        <p class="card-text">-kabaw mo luto</p>
+                                        <p class="card-text">-kabaw mo laba</p>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="row g-2">
-                                <div class="col">
-                                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Lightbox/Original/img%20(108).webp" alt="image 1" class="w-100 rounded-3">
+                            <div class="row ">
+                                <div class="card bg-dark text-white my-2">
+                                    <div class="card-header d-flex justify-content-between">
+                                        <div class="img">
+
+                                            <img src="../../../assets/img/jane.jpg" height="50" width="50" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">katabang</h5>
+                                        <p class="card-text">-kabaw mo luto</p>
+                                        <p class="card-text">-kabaw mo laba</p>
+                                    </div>
                                 </div>
-                                <div class="col">
-                                    <img src="https://mdbcdn.b-cdn.net/img/Photos/Lightbox/Original/img%20(114).webp" alt="image 1" class="w-100 rounded-3">
+                            </div>
+                            <div class="row ">
+                                <div class="card bg-dark text-white my-2">
+                                    <div class="card-header d-flex justify-content-between">
+                                        <div class="img">
+
+                                            <img src="../../../assets/img/jane.jpg" height="50" width="50" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">katabang</h5>
+                                        <p class="card-text">-kabaw mo luto</p>
+                                        <p class="card-text">-kabaw mo laba</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>

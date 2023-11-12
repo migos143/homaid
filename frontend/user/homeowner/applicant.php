@@ -48,7 +48,7 @@
                     <a class="text-white " href="#"><i class="bi bi-plus-circle  fa-lg"></i></a>
                 </div>
 
-                <a class="nav-link text-white " href="#" data-bs-toggle="dropdown">
+                <a class="nav-link text-white " href="post.php" data-bs-toggle="dropdown">
                     <img src="../../../assets/img/Ivana.jpg" height="40" width="40" alt="P" class="rounded-circle">
                     <span class="ps-2 text-white">d. dragon</span>
                 </a>

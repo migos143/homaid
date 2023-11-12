@@ -221,7 +221,6 @@
             <h2 class="mb-5">Skill</h2>
             <ul>
                 <li>
-                   
                     <input type="text" class="form-control form-control-md border-bottom" name="about" id="about" placeholder="Email">
                 </li>
 

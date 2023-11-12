@@ -16,7 +16,7 @@
             <div class="container-fluid">
                 <a class="navbar-brand text-white" href="#">HOME<span style="color:#0A9DF0;">AID</span></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                    <span class="navbar-toggler-icon text-white"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ">
@@ -45,7 +45,7 @@
 
                 </div>
                 <div class="">
-                    <a class="text-white " href="#"><i class="bi bi-plus-circle  fa-lg"></i></a>
+                    <a class="text-white " href="post.php"><i class="bi bi-plus-circle  fa-lg"></i></a>
                 </div>
 
                 <a class="nav-link text-white " href="#" data-bs-toggle="dropdown">

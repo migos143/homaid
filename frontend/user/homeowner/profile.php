@@ -96,7 +96,7 @@
                         <div class="card-body p-4 text-black mt-5">
                             <div class="mb-5">
                                 <p class="lead fw-normal mb-1">Bio</p>
-                                <div class="p-4" style="background-color: #f8f9fa;">
+                                <div class="p-4 bg-dark text-white">
                                     <p class="font-italic mb-1">ADDRESS: USA CORDOVA </p>
                                     <p class="font-italic mb-1">CONTACT: 09123456789</p>
                                     <p class="font-italic mb-0">EMAIL: jelmerogwapo123@gmail.com</p>
